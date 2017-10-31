@@ -1,5 +1,11 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# Text file
+*.txt
+
+# csv file
+*.csv
+
+# rar file
+*.rar
