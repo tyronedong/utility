@@ -9,3 +9,9 @@
 
 # rar file
 *.rar
+
+# xlsx file
+*.xlsx
+
+# docx file
+*.docx
