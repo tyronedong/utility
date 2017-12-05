@@ -15,3 +15,5 @@
 
 # docx file
 *.docx
+
+.idea
